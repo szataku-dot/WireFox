@@ -1,0 +1,411 @@
+{
+  "uuid": "eb73f4d8abe663213445d6e7aa960bb4",
+  "path": "Offline/WireFox",
+  "name": "WireFox",
+  "content": "",
+  "created_at": "2026-02-25 14:09:23",
+  "updated_at": "2026-02-25 16:53:04",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "2fd53b179b33fa9685e216d1a95af1a9",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a7ea11f414b44ca28dbf5c9b17beea1f": 1,
+        "a05a370e6cd448f59640e0849a3dd4bf": 1,
+        "42314c6fefbd4f7da8013a7034cb2c30": 6,
+        "6d827642b15d4f93910ef2ad5ee334d0": 2,
+        "eb1f2360c38146f5b4d89ec951d19fac": 1,
+        "db65971c44c2e645de3e086c09f3387f": 1,
+        "3cab87ae4b5a4d82aca7953d6e78933e": 1,
+        "9403484ab6b1455db6fc165d5179f435": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "BACK",
+          1,
+          "SMD PUSH BUTTON",
+          "BACK",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "BATTERY",
+          1,
+          "3X GOLDPIN",
+          "BATTERY_CONN",
+          {
+            "Manufacturer Part": "5x Goldpin",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10uF",
+          3,
+          "R0805",
+          "C1,C2,C3",
+          {
+            "Manufacturer Part": "0805WAD1001T5E",
+            "Manufacturer": "Uniroyal Elec",
+            "Supplier": "LCSC",
+            "Supplier Part": "C169072"
+          }
+        ],
+        [
+          "DOWN",
+          1,
+          "SMD PUSH BUTTON",
+          "DOWN",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ENTER",
+          1,
+          "SMD PUSH BUTTON",
+          "ENTER",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "FC-2012YOXK(5)-600H08",
+          1,
+          "LED0805-RD",
+          "LED1",
+          {
+            "Manufacturer Part": "FC-2012YOXK(5)-600H08",
+            "Manufacturer": "NATIONSTAR",
+            "Supplier": "LCSC",
+            "Supplier Part": "C84262"
+          }
+        ],
+        [
+          "LEFT",
+          1,
+          "SMD PUSH BUTTON",
+          "LEFT",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SW-SLIDE",
+          2,
+          "SLIDE_SWITCH_SMD",
+          "MODE,POWER",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "220S-1*4P H=8.5MM Ytype Gold-plated",
+          1,
+          "DIP-1X4P2.54",
+          "OLED",
+          {
+            "Manufacturer Part": "220S-1*4P H=8.5MM Ytype Gold-plated",
+            "Manufacturer": "Ckmtw",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124413"
+          }
+        ],
+        [
+          "100K",
+          2,
+          "R0805",
+          "R1,R2",
+          {
+            "Manufacturer Part": "0805WAD1001T5E",
+            "Manufacturer": "Uniroyal Elec",
+            "Supplier": "LCSC",
+            "Supplier Part": "C169072"
+          }
+        ],
+        [
+          "0.1K",
+          1,
+          "R0805",
+          "R3",
+          {
+            "Manufacturer Part": "0805WAD1001T5E",
+            "Manufacturer": "Uniroyal Elec",
+            "Supplier": "LCSC",
+            "Supplier Part": "C169072"
+          }
+        ],
+        [
+          "RIGHT",
+          1,
+          "SMD PUSH BUTTON",
+          "RIGHT",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "KENSHIN ESP32-S3-SUPERMINI V2 COPY",
+          1,
+          "ESP32-S3-SUPERMINI-SMD-HF",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "EXTENSION CARD",
+          1,
+          "GOLDPIN 7X1",
+          "U2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "24LC256-I/SN",
+          1,
+          "SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "24LC256-I/SN",
+            "Manufacturer": "MICROCHIP(美国微芯)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C411625"
+          }
+        ],
+        [
+          "UP",
+          1,
+          "SMD PUSH BUTTON",
+          "UP",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1772033159,
+      "createTime": 1772024964,
+      "histories": [],
+      "created_at": "2026-02-25 14:09:24",
+      "updated_at": "2026-02-25 16:25:59"
+    },
+    {
+      "uuid": "0d508a038d5ddbd14e98c131f61fd167",
+      "puuid": "eb73f4d8abe663213445d6e7aa960bb4",
+      "title": "PCB_WireFox",
+      "filename": "PCB_WireFox.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e8c02676393941719f20c551c577988a": 1,
+        "a0f6b6d7d7444358bbb46e08cb5e2a9c": 1,
+        "575cd80791774db3a174e7225c9ef55c": 2,
+        "769626f169ec49d9867bc27eb696b6b9": 6,
+        "61afc879b40f44a08793fbc5d64c4098": 1,
+        "8fb8a30cb23d492da46e85071b905c5c": 1,
+        "a267edbe7c3c4a16b85fd51e936458d0": 1,
+        "444df0023f8442ffb2fe07804ff5f9cc": 1,
+        "3a4df0e7cc0845d0ade432b3cbacbd18": 6
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "Button1",
+          6,
+          "SMD PUSH BUTTON",
+          "BACK,DOWN,ENTER,LEFT,RIGHT,UP",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "FC-2012YOXK(5)-600H08",
+          1,
+          "LED0805-RD",
+          "LED1",
+          {
+            "Manufacturer Part": "FC-2012YOXK(5)-600H08",
+            "Manufacturer": "NATIONSTAR",
+            "Supplier": "LCSC",
+            "Supplier Part": "C84262"
+          }
+        ],
+        [
+          "220S-1*4P H=8.5MM Ytype Gold-plated",
+          1,
+          "DIP-1X4P2.54",
+          "H1",
+          {
+            "Manufacturer Part": "220S-1*4P H=8.5MM Ytype Gold-plated",
+            "Manufacturer": "Ckmtw",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124413"
+          }
+        ],
+        [
+          "0.1K",
+          1,
+          "R0805",
+          "R3",
+          {
+            "Manufacturer Part": "0805WAD1001T5E",
+            "Manufacturer": "Uniroyal Elec",
+            "Supplier": "LCSC",
+            "Supplier Part": "C169072"
+          }
+        ],
+        [
+          "100K",
+          2,
+          "R0805",
+          "R1,R2",
+          {
+            "Manufacturer Part": "0805WAD1001T5E",
+            "Manufacturer": "Uniroyal Elec",
+            "Supplier": "LCSC",
+            "Supplier Part": "C169072"
+          }
+        ],
+        [
+          "Goldpin 7x1",
+          1,
+          "GOLDPIN 7X1",
+          "U2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10uF",
+          2,
+          "R0805",
+          "C1,C2",
+          {
+            "Manufacturer Part": "0805WAD1001T5E",
+            "Manufacturer": "Uniroyal Elec",
+            "Supplier": "LCSC",
+            "Supplier Part": "C169072"
+          }
+        ],
+        [
+          "24LC256-I/SN",
+          1,
+          "SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Manufacturer Part": "24LC256-I/SN",
+            "Manufacturer": "MICROCHIP(美国微芯)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C411625"
+          }
+        ],
+        [
+          "3X GOLDPIN",
+          1,
+          "3X GOLDPIN",
+          "G",
+          {
+            "Manufacturer Part": "5x Goldpin",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SW-SLIDE",
+          2,
+          "SLIDE_SWITCH_SMD",
+          "MODE,POWER",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ESP32-S3",
+          1,
+          "ESP32-S3-SUPERMINI-SMD-HF",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1772034784,
+      "createTime": 1772027423,
+      "histories": [],
+      "created_at": "2026-02-25 14:50:23",
+      "updated_at": "2026-02-25 16:53:04"
+    }
+  ],
+  "sort": [
+    "f3985f6fada5b5d9c784f33268476cb3",
+    "5364c7ac9fed552d7c5aa280cb347bf8",
+    "207dbfc250fe453e94eb1abd5891f3df"
+  ],
+  "title": "WireFox",
+  "foldername": "WireFox",
+  "schfilename": "WireFox.json",
+  "schfilemtime": 1772033159100
+}
