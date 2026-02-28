@@ -1,14 +1,14 @@
 {
-  "uuid": "eb73f4d8abe663213445d6e7aa960bb4",
+  "uuid": "97b385793b893dd82dc624df5c3c7554",
   "path": "Offline/WireFox",
   "name": "WireFox",
   "content": "",
-  "created_at": "2026-02-25 14:09:23",
-  "updated_at": "2026-02-25 16:53:04",
+  "created_at": "2026-02-28 15:04:50",
+  "updated_at": "2026-02-28 17:13:44",
   "stick": "",
   "documents": [
     {
-      "uuid": "2fd53b179b33fa9685e216d1a95af1a9",
+      "uuid": "cbfb5e54194c565874724126cd3d9ca3",
       "title": "Sheet_1",
       "description": "",
       "docType": "1",
@@ -225,15 +225,15 @@
           }
         ]
       ],
-      "updateTime": 1772033159,
-      "createTime": 1772024964,
+      "updateTime": 1772287490,
+      "createTime": 1772287490,
       "histories": [],
-      "created_at": "2026-02-25 14:09:24",
-      "updated_at": "2026-02-25 16:25:59"
+      "created_at": "2026-02-28 15:04:50",
+      "updated_at": "2026-02-28 15:04:50"
     },
     {
-      "uuid": "0d508a038d5ddbd14e98c131f61fd167",
-      "puuid": "eb73f4d8abe663213445d6e7aa960bb4",
+      "uuid": "b7d41432599f5740d760b596ed36c727",
+      "puuid": "97b385793b893dd82dc624df5c3c7554",
       "title": "PCB_WireFox",
       "filename": "PCB_WireFox.json",
       "description": "",
@@ -260,39 +260,39 @@
           "CustomPara"
         ],
         [
-          "Button1",
-          6,
-          "SMD PUSH BUTTON",
-          "BACK,DOWN,ENTER,LEFT,RIGHT,UP",
+          "BATTERY",
+          1,
+          "3X GOLDPIN",
+          "BATTERY_CONN",
           {
-            "Manufacturer Part": "?",
+            "Manufacturer Part": "5x Goldpin",
             "Manufacturer": "",
             "Supplier": "",
             "Supplier Part": ""
           }
         ],
         [
-          "FC-2012YOXK(5)-600H08",
+          "EXTENSION CARD",
           1,
-          "LED0805-RD",
-          "LED1",
+          "GOLDPIN 7X1",
+          "U2",
           {
-            "Manufacturer Part": "FC-2012YOXK(5)-600H08",
-            "Manufacturer": "NATIONSTAR",
-            "Supplier": "LCSC",
-            "Supplier Part": "C84262"
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
           }
         ],
         [
-          "220S-1*4P H=8.5MM Ytype Gold-plated",
-          1,
-          "DIP-1X4P2.54",
-          "H1",
+          "SW-SLIDE",
+          2,
+          "SLIDE_SWITCH_SMD",
+          "MODE,POWER",
           {
-            "Manufacturer Part": "220S-1*4P H=8.5MM Ytype Gold-plated",
-            "Manufacturer": "Ckmtw",
-            "Supplier": "LCSC",
-            "Supplier Part": "C124413"
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
           }
         ],
         [
@@ -320,22 +320,10 @@
           }
         ],
         [
-          "Goldpin 7x1",
-          1,
-          "GOLDPIN 7X1",
-          "U2",
-          {
-            "Manufacturer Part": "",
-            "Manufacturer": "",
-            "Supplier": "",
-            "Supplier Part": ""
-          }
-        ],
-        [
           "10uF",
-          2,
+          3,
           "R0805",
-          "C1,C2",
+          "C1,C2,C3",
           {
             "Manufacturer Part": "0805WAD1001T5E",
             "Manufacturer": "Uniroyal Elec",
@@ -356,31 +344,7 @@
           }
         ],
         [
-          "3X GOLDPIN",
-          1,
-          "3X GOLDPIN",
-          "G",
-          {
-            "Manufacturer Part": "5x Goldpin",
-            "Manufacturer": "",
-            "Supplier": "",
-            "Supplier Part": ""
-          }
-        ],
-        [
-          "SW-SLIDE",
-          2,
-          "SLIDE_SWITCH_SMD",
-          "MODE,POWER",
-          {
-            "Manufacturer Part": "?",
-            "Manufacturer": "",
-            "Supplier": "",
-            "Supplier Part": ""
-          }
-        ],
-        [
-          "ESP32-S3",
+          "KENSHIN ESP32-S3-SUPERMINI V2 COPY",
           1,
           "ESP32-S3-SUPERMINI-SMD-HF",
           "U1",
@@ -390,22 +354,114 @@
             "Supplier": "",
             "Supplier Part": ""
           }
+        ],
+        [
+          "FC-2012YOXK(5)-600H08",
+          1,
+          "LED0805-RD",
+          "LED1",
+          {
+            "Manufacturer Part": "FC-2012YOXK(5)-600H08",
+            "Manufacturer": "NATIONSTAR",
+            "Supplier": "LCSC",
+            "Supplier Part": "C84262"
+          }
+        ],
+        [
+          "220S-1*4P H=8.5MM Ytype Gold-plated",
+          1,
+          "DIP-1X4P2.54",
+          "OLED",
+          {
+            "Manufacturer Part": "220S-1*4P H=8.5MM Ytype Gold-plated",
+            "Manufacturer": "Ckmtw",
+            "Supplier": "LCSC",
+            "Supplier Part": "C124413"
+          }
+        ],
+        [
+          "BACK",
+          1,
+          "SMD PUSH BUTTON",
+          "BACK",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "DOWN",
+          1,
+          "SMD PUSH BUTTON",
+          "DOWN",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ENTER",
+          1,
+          "SMD PUSH BUTTON",
+          "ENTER",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "LEFT",
+          1,
+          "SMD PUSH BUTTON",
+          "LEFT",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "RIGHT",
+          1,
+          "SMD PUSH BUTTON",
+          "RIGHT",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "UP",
+          1,
+          "SMD PUSH BUTTON",
+          "UP",
+          {
+            "Manufacturer Part": "?",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
         ]
       ],
-      "updateTime": 1772034784,
-      "createTime": 1772027423,
+      "updateTime": 1772295027,
+      "createTime": 1772287698,
       "histories": [],
-      "created_at": "2026-02-25 14:50:23",
-      "updated_at": "2026-02-25 16:53:04"
+      "created_at": "2026-02-28 15:08:18",
+      "updated_at": "2026-02-28 17:10:27"
     }
   ],
-  "sort": [
-    "f3985f6fada5b5d9c784f33268476cb3",
-    "5364c7ac9fed552d7c5aa280cb347bf8",
-    "207dbfc250fe453e94eb1abd5891f3df"
-  ],
+  "sort": [],
   "title": "WireFox",
   "foldername": "WireFox",
   "schfilename": "WireFox.json",
-  "schfilemtime": 1772033159100
+  "schfilemtime": 1772287490260
 }
